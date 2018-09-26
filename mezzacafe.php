@@ -4,26 +4,26 @@ require_once('../md5rand.php');
 
 $mc_file_flags = FILE_IGNORE_NEW_LINES + FILE_SKIP_EMPTY_LINES;
 # foods
-$mc_amounts       = file('amount.txt',       $mc_file_flags);
-$mc_ingredients   = file('ingredient.txt',   $mc_file_flags);
-$mc_joins         = file('join.txt',         $mc_file_flags);
-$mc_methods       = file('method.txt',       $mc_file_flags);
-$mc_presentations = file('presentation.txt', $mc_file_flags);
+$mc_amounts       = file('vocabulary/amount.txt',       $mc_file_flags);
+$mc_ingredients   = file('vocabulary/ingredient.txt',   $mc_file_flags);
+$mc_joins         = file('vocabulary/join.txt',         $mc_file_flags);
+$mc_methods       = file('vocabulary/method.txt',       $mc_file_flags);
+$mc_presentations = file('vocabulary/presentation.txt', $mc_file_flags);
 # wines
-$mc_wine_adjectives        = file('wine_adjective.txt',        $mc_file_flags);
-$mc_wine_bouquets          = file('wine_bouquet.txt',          $mc_file_flags);
-$mc_wine_bouquet_joins     = file('wine_bouquet_join.txt',     $mc_file_flags);
-$mc_wine_colours           = file('wine_colour.txt',           $mc_file_flags);
-$mc_wine_colour_adjectives = file('wine_colour_adjective.txt', $mc_file_flags);
-$mc_wine_descriptors       = file('wine_descriptor.txt',       $mc_file_flags);
-$mc_wine_grapes            = file('wine_grape.txt',            $mc_file_flags);
-$mc_wine_grape_adjectives  = file('wine_grape_adjective.txt',  $mc_file_flags);
-$mc_wine_intensifiers      = file('wine_intensifier.txt',      $mc_file_flags);
-$mc_wine_regions           = file('wine_region.txt',           $mc_file_flags);
-$mc_wine_types             = file('wine_type.txt',             $mc_file_flags);
-$mc_winery_adjectives      = file('winery_adjective.txt',      $mc_file_flags);
-$mc_winery_names           = file('winery_name.txt',           $mc_file_flags);
-$mc_winery_nouns           = file('winery_noun.txt',           $mc_file_flags);
+$mc_wine_adjectives        = file('vocabulary/wine_adjective.txt',        $mc_file_flags);
+$mc_wine_bouquets          = file('vocabulary/wine_bouquet.txt',          $mc_file_flags);
+$mc_wine_bouquet_joins     = file('vocabulary/wine_bouquet_join.txt',     $mc_file_flags);
+$mc_wine_colours           = file('vocabulary/wine_colour.txt',           $mc_file_flags);
+$mc_wine_colour_adjectives = file('vocabulary/wine_colour_adjective.txt', $mc_file_flags);
+$mc_wine_descriptors       = file('vocabulary/wine_descriptor.txt',       $mc_file_flags);
+$mc_wine_grapes            = file('vocabulary/wine_grape.txt',            $mc_file_flags);
+$mc_wine_grape_adjectives  = file('vocabulary/wine_grape_adjective.txt',  $mc_file_flags);
+$mc_wine_intensifiers      = file('vocabulary/wine_intensifier.txt',      $mc_file_flags);
+$mc_wine_regions           = file('vocabulary/wine_region.txt',           $mc_file_flags);
+$mc_wine_types             = file('vocabulary/wine_type.txt',             $mc_file_flags);
+$mc_winery_adjectives      = file('vocabulary/winery_adjective.txt',      $mc_file_flags);
+$mc_winery_names           = file('vocabulary/winery_name.txt',           $mc_file_flags);
+$mc_winery_nouns           = file('vocabulary/winery_noun.txt',           $mc_file_flags);
 
 function replace_hashes($s, $r)
 {
@@ -79,7 +79,7 @@ function MC_RandomFood($r=null)
     $s = str_replace('+ ', '', $s);
 
     if ($r->next_float() < 0.1)
-        $s .= '<br />With this dish may we recommend:<br />' . MC_RandomWine($r);
+        $s .= '<br>With this dish may we recommend:<br>' . MC_RandomWine($r);
 
     if ($s[0] == '"')
         return '"' . ucfirst(substr($s, 1));

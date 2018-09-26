@@ -1,4 +1,4 @@
-<?php include('../../header_pre.php'); ?>
+<?php include('../header_pre.php'); ?>
 <title>mezzacotta Caf&eacute; - Photos</title>
 <style type="text/css">
 .main
@@ -33,7 +33,7 @@
     font-style: normal;
 }
 </style>
-<?php include('../../header_post.php'); ?>
+<?php include('../header_post.php'); ?>
 
 <div class="main">
 <div class="item">
@@ -95,4 +95,4 @@ Gummi worm insalata &amp; twinkies and coffee
 </div>
 
 <br class="clear" />
-<?php include('../../footer.php'); ?>
+<?php include('../footer.php'); ?>

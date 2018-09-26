@@ -1,4 +1,4 @@
-<?php include('../../header_pre.php'); ?>
+<?php include('../header_pre.php'); ?>
 <title>mezzacotta Caf&eacute; - Wine List</title>
 <style type="text/css">
 .main
@@ -25,7 +25,7 @@
     font-style: normal;
 }
 </style>
-<?php include('../../header_post.php'); ?>
+<?php include('../header_post.php'); ?>
 
 <div class="main">
 <div class="item">
@@ -60,4 +60,4 @@ for ($i = 0; $i < 5; ++$i)
 </div>
 
 <br class="clear" />
-<?php include('../../footer.php'); ?>
+<?php include('../footer.php'); ?>

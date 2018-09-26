@@ -1,5 +1,5 @@
 <?php include('../header_pre.php'); ?>
-<title>mezzacotta Caf&eacute;</title>
+<title>mezzacotta Café</title>
 <style type="text/css">
 .main
 {
@@ -29,7 +29,7 @@
 
 <div class="main">
 <div class="item">
-<b>Welcome to the mezzacotta Caf&eacute;</b><br />
+<b>Welcome to the mezzacotta Café</b><br />
 Today's Menu
 </div>
 <div class="break">~</div>
