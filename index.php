@@ -63,5 +63,5 @@ for ($i = 0; $i < 5; ++$i)
 </div>
 </div>
 
-<br class="clear" />
+<br class="clear">
 <?php include('../footer.php'); ?>

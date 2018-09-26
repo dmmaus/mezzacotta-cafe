@@ -1,5 +1,5 @@
 <?php include('../header_pre.php'); ?>
-<title>mezzacotta Caf&eacute; - Photos</title>
+<title>mezzacotta Café - Photos</title>
 <style type="text/css">
 .main
 {
@@ -37,7 +37,7 @@
 
 <div class="main">
 <div class="item">
-<b>Welcome to the mezzacotta Caf&eacute;</b><br />
+<b>Welcome to the mezzacotta Café</b><br>
 Menu Photos
 </div>
 <div class="break">~</div>
@@ -46,13 +46,13 @@ Menu Photos
 
 <tr><td>
 <div class="item">
-<a href="http://www.flickr.com/photos/8772698@N03/3086907278/" title="Liverwurst Schnitzel by Tuokku, on Flickr"><img src="http://farm4.static.flickr.com/3037/3086907278_cf19c3bdf0_m.jpg" width="240" height="180" alt="Liverwurst Schnitzel" /></a><br />
+<a href="http://www.flickr.com/photos/8772698@N03/3086907278/" title="Liverwurst Schnitzel by Tuokku, on Flickr"><img src="http://farm4.static.flickr.com/3037/3086907278_cf19c3bdf0_m.jpg" width="240" height="180" alt="Liverwurst Schnitzel" /></a><br>
 Liverwurst schnitzel
 </div>
 <div class="break">~</div>
 </td><td>
 <div class="item">
-<a href="http://www.flickr.com/photos/dmmaus/3201667897/" title="Boiled Oats by dmmaus, on Flickr"><img src="http://farm4.static.flickr.com/3514/3201667897_678d06453c_m.jpg" width="240" height="180" alt="Boiled Oats" /></a><br />
+<a href="http://www.flickr.com/photos/dmmaus/3201667897/" title="Boiled Oats by dmmaus, on Flickr"><img src="http://farm4.static.flickr.com/3514/3201667897_678d06453c_m.jpg" width="240" height="180" alt="Boiled Oats" /></a><br>
 Boiled oats
 </div>
 <div class="break">~</div>
@@ -60,13 +60,13 @@ Boiled oats
 
 <tr><td>
 <div class="item">
-<a href="http://www.flickr.com/photos/dmmaus/3217655846/" title="Peachy Chops by dmmaus, on Flickr"><img src="http://farm4.static.flickr.com/3337/3217655846_9dc011d6e1_m.jpg" width="240" height="180" alt="Peachy Chops" /></a><br />
+<a href="http://www.flickr.com/photos/dmmaus/3217655846/" title="Peachy Chops by dmmaus, on Flickr"><img src="http://farm4.static.flickr.com/3337/3217655846_9dc011d6e1_m.jpg" width="240" height="180" alt="Peachy Chops" /></a><br>
 Peachy chops (served atop mixed Chinese-style vegetables artistically placed upon a bed of black soybean pasta)
 </div>
 <div class="break">~</div>
 </td><td>
 <div class="item">
-<a href="http://flickr.com/photos/zenithsphere/3221487053/" title="Chocolate mousse in a cone by andoru, on Flickr"><img src="http://farm4.static.flickr.com/3417/3221487053_4ee50f48d9_m.jpg" width="240" height="157" alt="Chocolate mousse in a cone" /></a><br />
+<a href="http://flickr.com/photos/zenithsphere/3221487053/" title="Chocolate mousse in a cone by andoru, on Flickr"><img src="http://farm4.static.flickr.com/3417/3221487053_4ee50f48d9_m.jpg" width="240" height="157" alt="Chocolate mousse in a cone" /></a><br>
 Chocolate mousse in a cone
 </div>
 <div class="break">~</div>
@@ -74,13 +74,13 @@ Chocolate mousse in a cone
 
 <tr><td>
 <div class="item">
-<a href="http://www.flickr.com/photos/dmmaus/3493005577/" title="M&amp;M Smoothie by dmmaus, on Flickr"><img src="http://farm4.static.flickr.com/3582/3493005577_a7662ac812_m.jpg" width="160" height="240" alt="M&amp;M Smoothie" /></a><br />
+<a href="http://www.flickr.com/photos/dmmaus/3493005577/" title="M&amp;M Smoothie by dmmaus, on Flickr"><img src="http://farm4.static.flickr.com/3582/3493005577_a7662ac812_m.jpg" width="160" height="240" alt="M&amp;M Smoothie" /></a><br>
 M&amp;M smoothie
 </div>
 <div class="break">~</div>
 </td><td>
 <div class="item">
-<a href="http://www.flickr.com/photos/dmmaus/4113709883/" title="Gummi worm insalata &amp; twinkies and coffee by dmmaus, on Flickr"><img src="http://farm3.static.flickr.com/2682/4113709883_aa27e93c94_m.jpg" width="240" height="194" alt="Gummi worm insalata &amp; twinkies and coffee" /></a><br />
+<a href="http://www.flickr.com/photos/dmmaus/4113709883/" title="Gummi worm insalata &amp; twinkies and coffee by dmmaus, on Flickr"><img src="http://farm3.static.flickr.com/2682/4113709883_aa27e93c94_m.jpg" width="240" height="194" alt="Gummi worm insalata &amp; twinkies and coffee" /></a><br>
 Gummi worm insalata &amp; twinkies and coffee
 </div>
 <div class="break">~</div>
@@ -94,5 +94,5 @@ Gummi worm insalata &amp; twinkies and coffee
 </div>
 </div>
 
-<br class="clear" />
+<br class="clear">
 <?php include('../footer.php'); ?>
