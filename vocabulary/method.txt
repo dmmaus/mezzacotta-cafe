@@ -31,6 +31,7 @@ alcoholic
 all-natural
 all-you-can-eat
 allumette of
+almost vegan
 Alpine
 alternating layers of
 ambrosia
@@ -213,6 +214,7 @@ cottage style
 country style
 Country
 cracked
+craft
 cream of
 creamed
 creamy
@@ -389,6 +391,7 @@ freeze-dried
 freezing cold
 French
 French fried
+French style
 Frenched
 fresh
 fresh harvested
@@ -523,6 +526,7 @@ intense
 intensely flavoured
 intriguing
 inviting
+Iranian
 Irish
 Israeli
 Italian
@@ -619,6 +623,7 @@ memorable
 Mesquite-grilled
 Mexican
 mezzacotta
+microbrewed
 microwaved
 Middle Eastern
 mild
@@ -741,6 +746,7 @@ pressure-cooked
 prime
 prize-winning
 processed
+produce-driven
 Provencal
 provincial style
 provocative
@@ -823,6 +829,7 @@ scrumptious
 sea
 seared
 seasonal
+seasonally inspired
 seasoned
 secret
 seeded
@@ -942,6 +949,7 @@ sun-ripened
 super
 super sour
 super-sized
+surprisingly meaty
 sweated
 Swedish
 sweet
@@ -1003,6 +1011,7 @@ today's
 toffeed
 torched
 tossed
+totally vegan
 tough
 tournadoes of
 traditional style

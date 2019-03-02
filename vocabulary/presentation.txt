@@ -12,6 +12,7 @@
 &agrave; l'orange
 a choux
 abomination
+aged in clay vessels lined with beeswax
 agri-doux
 aioli
 al forno
@@ -288,6 +289,7 @@ gelato
 glaze
 glory
 gnocchi
+goujons
 goulash
 grande
 granit&eacute;
@@ -442,6 +444,7 @@ on a roll
 on a sesame seed bun
 on a shingle
 on a stick
+on a tasting paddle
 on horseback
 on ice
 on the bone
@@ -574,6 +577,7 @@ served al fresco
 served at room temperature
 served chilled
 served cold
+served deconstructed in # beakers
 served in a cocktail glass
 served in a mason jar
 served in a monkey skull

@@ -2,6 +2,7 @@
 # choices of
 # chunks of
 # courses of
+# mini serves of
 # pieces of
 # slices of
 # scoops of
@@ -116,6 +117,7 @@ a swirl of
 a take-away container of
 a tajine of
 a taste of
+a tasting paddle of
 a teaspoon of
 a touch of
 a tower of

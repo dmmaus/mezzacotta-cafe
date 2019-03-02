@@ -916,6 +916,8 @@ turtle
 %udon noodle
 ungulate (even-toed)
 ungulate (odd-toed)
+unicorn
+unicorn's tears
 vanilla
 %vanilla bean
 veal
